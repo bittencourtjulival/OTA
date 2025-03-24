@@ -1,0 +1,25 @@
+{
+  "response": [
+    {
+      "maintainer": "bittencourtjulival",
+      "oem": "Xiaomi",
+      "device": "Poco X5 5G/Redmi Note 12 5G",
+      "filename": "EvolutionX-15.0-20250316-stone-10.3-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/bittencourtjulival-builds/files/stone/EvolutionX-15.0-20250316-stone-10.3-Unofficial.zip/download",
+      "timestamp": 1740023141,
+      "md5": "311832215a0d24a3a513b5d8fd152863",
+      "sha256": "31a73058558f7cc0e11a388ad7c942f90c80efb2",
+      "size":  2487880086 ,
+      "version": "10.3",
+      "buildtype": "userdebug",
+      "forum": "https://xdaforums.com/t/rom-15-stone-evolution-x-10-3-unofficial.4725161/",
+      "firmware": " ",
+      "paypal": "",
+      "telegram": "https://t.me/bittencourtjulival_builds",
+      "github": "https://github.com/bittencourtjulival",
+      "initial_installation_images": [
+        "recovery"
+      ]
+    }
+  ]
+}

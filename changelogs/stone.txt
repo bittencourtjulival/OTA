@@ -1,0 +1,10 @@
+Changelog 20250316
+
+* Fixed Bluetooth 
+* Play Store is certified by default.
+* Dirty flash should work from previous build
+* February Security Patch  
+
+Changelog 20250314
+
+*initial build
