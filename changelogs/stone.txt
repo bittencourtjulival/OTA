@@ -1,3 +1,14 @@
+Changelog 20250405
+
+* Switch to DarkMoon kernel
+* Added OTA support.
+* Added HBM.
+* Added DC Dimming.
+* Added Per APP Refresh Rate.
+* Added Clear Speaker .
+* Added Diarc Sound.
+* March Security Patch [QPR2].
+
 Changelog 20250316
 
 * Fixed Bluetooth 
