@@ -1,4 +1,20 @@
+Changelog 20250412
+Evolution x 10.5
+
+* Removed ACCORD and BCR.
+* Removed serveral GAPPS
+* FRP disabled
+* Uprev to Audio Hal 7.0
+* Added ZRAM Control options
+* Extend fastcharge options
+* Nuked Dirac
+* Play Store is certified by default.
+* Dirty flash should work from previous build
+* April Security Patch  
+
+
 Changelog 20250405
+Evolution x 10.4
 
 * Switch to DarkMoon kernel
 * Added OTA support.
@@ -7,9 +23,12 @@ Changelog 20250405
 * Added Per APP Refresh Rate.
 * Added Clear Speaker .
 * Added Diarc Sound.
+* Play Store is certified by default.
+* Dirty flash should work from previous build
 * March Security Patch [QPR2].
 
 Changelog 20250316
+Evolution x 10.3 - HotFix
 
 * Fixed Bluetooth 
 * Play Store is certified by default.
@@ -17,5 +36,9 @@ Changelog 20250316
 * February Security Patch  
 
 Changelog 20250314
+Evolution x 10.3
 
-*initial build
+* Initial build
+* Play Store is certified by default.
+* Dirty flash should work from previous build
+* February Security Patch 
