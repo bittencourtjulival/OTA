@@ -1,3 +1,14 @@
+Changelog 20250508
+Evolutio X 10.6
+
+* Moved ZRAM Control to system .
+* Fixed Fastcharge options.
+* Altered kernel for Eclipse
+* Some performance improvements
+* Play Store is certified by default.
+* Dirty flash should work from previous build
+* May Security Patch.
+
 Changelog 20250412
 Evolution x 10.5
 
