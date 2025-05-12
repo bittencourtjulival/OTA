@@ -1,3 +1,12 @@
+Changelog 20250512
+Evolutio X 10.6
+
+* Fixed video rendering issue on social media 
+* Removed smoot display
+* Fixed flicker at 60hz.
+* Play Store is certified by default.
+* Dirty flash should work from previous build.
+
 Changelog 20250508
 Evolutio X 10.6
 
