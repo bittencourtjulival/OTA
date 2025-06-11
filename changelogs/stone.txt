@@ -1,3 +1,13 @@
+Changelog 20250610
+Evolution X 10.7
+
+* Optimize native executables for Cortex-A76 CPU.
+* Enhance audio quality
+* Animator duration adjustments
+* AOD glare reduction
+* July Security Patch.
+* Dirty flash should work from previous build.
+
 Changelog 20250512
 Evolutio X 10.6
 
